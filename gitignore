@@ -1,0 +1,36 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Data / output artifacts (uncomment if you don't want to commit these)
+# *.csv
+# *.xlsx
+# data/
+# outputs/
+
+# Colab-specific
+*.ipynb_checkpoints
